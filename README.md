@@ -1,5 +1,5 @@
 
-This repo contains notes made for #Certified-in-Cyber-Security exam by (ISC)^2^ 
+This repo contains notes made for #Certified-in-Cyber-Security exam by (ISC)²
 
 # Table of content
 
