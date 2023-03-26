@@ -8,46 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1856d990017b4fe8",
+            "id": "b0ad32066603f34e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1 ~ Security Principles/Confidentiality.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92e5ec11b91fb1c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1 ~ Security Principles/Integrity.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3962b100dfba7620",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1 ~ Security Principles/Availability.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -113,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 ~ Security Principles/Availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 ~ Security Principles/Availability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chapter 1 ~ Security Principles/Availability.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -175,11 +139,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3962b100dfba7620",
+  "active": "b0ad32066603f34e",
   "lastOpenFiles": [
-    "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
+    "Chapter 1 ~ Security Principles/Authentication.md",
     "Chapter 1 ~ Security Principles/Availability.md",
-    "Chapter 1 ~ Security Principles/Integrity.md",
-    "Chapter 1 ~ Security Principles/Confidentiality.md"
+    "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
+    "README.md",
+    "Chapter 1 ~ Security Principles/Confidentiality.md",
+    "Chapter 1 ~ Security Principles/Integrity.md"
   ]
 }

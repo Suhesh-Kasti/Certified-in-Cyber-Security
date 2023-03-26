@@ -1,5 +1,5 @@
 
-## What do you do?
+## What do we do?
 - Check to make sure the infrastructure aligns with standards, both in the physical building and in the way we handle our data, 
 - check to make sure that everybody knows what to do in case of an emergency
 - try to assess and treat any loss that may have happened
@@ -15,4 +15,9 @@
 	
 - ### [[Availability]]
 	 Availability means that systems and data are accessible at the time users need them.
+
+# [[Authentication]]
+Authentication process of verifying or proving the user’s identification.
+
+
 
