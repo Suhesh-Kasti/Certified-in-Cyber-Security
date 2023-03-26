@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "15f40d699742fd8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "327e3469f936f38b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1856d990017b4fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19bbb39a86f57765",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a4f8d9499fda20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1ce37803c2f9bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c89496d12b4254d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e6438b6702de2bc7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ef7851570a55bbc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "355ba2ec5b12890b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba5ab210d0135028",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "369e80eaf23d43a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "999ab907de6d67ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa75492527a5dea1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "1856d990017b4fe8",
+  "lastOpenFiles": [
+    "Chapter 1 ~ Security Principles/Confidentiality.md"
+  ]
+}
