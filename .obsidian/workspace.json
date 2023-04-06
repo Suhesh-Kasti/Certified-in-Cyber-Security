@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0ad32066603f34e",
+            "id": "9705b9c9fa7fa7c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 ~ Security Principles/Authentication.md",
+                "file": "Chapter 1 ~ Security Principles/Risk management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 ~ Security Principles/Authentication.md",
+                "file": "Chapter 1 ~ Security Principles/Risk management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 ~ Security Principles/Authentication.md",
+                "file": "Chapter 1 ~ Security Principles/Risk management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 ~ Security Principles/Authentication.md"
+                "file": "Chapter 1 ~ Security Principles/Risk management.md"
               }
             }
           }
@@ -148,13 +148,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0ad32066603f34e",
+  "active": "9705b9c9fa7fa7c9",
   "lastOpenFiles": [
-    "Chapter 1 ~ Security Principles/Confidentiality.md",
+    "Chapter 1 ~ Security Principles/Module 2 ~ Understand the Risk Management Process.md",
+    "Chapter 1 ~ Security Principles/Risk management.md",
+    "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
     "Chapter 1 ~ Security Principles/Authentication.md",
+    "Chapter 1 ~ Security Principles/Confidentiality.md",
     "Chapter 1 ~ Security Principles/Integrity.md",
     "Chapter 1 ~ Security Principles/Availability.md",
-    "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
     "README.md"
   ]
 }
