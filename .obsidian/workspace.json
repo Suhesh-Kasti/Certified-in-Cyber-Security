@@ -11,8 +11,13 @@
             "id": "b0ad32066603f34e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Authentication.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 1 ~ Security Principles/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 1 ~ Security Principles/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Authentication.md"
+              }
             }
           }
         ]
@@ -141,11 +150,11 @@
   },
   "active": "b0ad32066603f34e",
   "lastOpenFiles": [
+    "Chapter 1 ~ Security Principles/Confidentiality.md",
     "Chapter 1 ~ Security Principles/Authentication.md",
+    "Chapter 1 ~ Security Principles/Integrity.md",
     "Chapter 1 ~ Security Principles/Availability.md",
     "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
-    "README.md",
-    "Chapter 1 ~ Security Principles/Confidentiality.md",
-    "Chapter 1 ~ Security Principles/Integrity.md"
+    "README.md"
   ]
 }
