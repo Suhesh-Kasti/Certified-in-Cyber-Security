@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0ad32066603f34e",
+            "id": "1856d990017b4fe8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +39,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md"
+              }
             }
           }
         ]
@@ -139,13 +148,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0ad32066603f34e",
+  "active": "1856d990017b4fe8",
   "lastOpenFiles": [
+    "Chapter 1 ~ Security Principles/Confidentiality.md",
     "Chapter 1 ~ Security Principles/Authentication.md",
     "Chapter 1 ~ Security Principles/Availability.md",
     "Chapter 1 ~ Security Principles/Module 1 ~ Understand the Security Concepts of Information Assurance.md",
-    "README.md",
-    "Chapter 1 ~ Security Principles/Confidentiality.md",
     "Chapter 1 ~ Security Principles/Integrity.md"
   ]
 }
